@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Sagutdinov722</string>
+    <string name="Call">Позвонить</string>
+    <string name="Send">Отправить</string>
+    <string name="hintPhone">Введите номер телефона</string>
+    <string name="hintText">Введите текст сообщения</string>
+    <string name="permissionDeniedCall">Отсутствуют разрешения на совершение звонков</string>
+    <string name="permissionDeniedSend">Отсутствуют разрешения на отправку сообщений</string>
+    <string name="numberLengthError">Неверный формат - короткая длина</string>
+    <string name="numberFormatError">Неверный формат - в номере присутствуют недопустимые символы</string>
+</resources>
